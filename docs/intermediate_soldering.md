@@ -16,18 +16,13 @@ By the end of this Intermediate Soldering Training, you will be able to:
 Basic Solder Training at The AMP Lab
 
 **Estimated Time:** \
-2 Sessions
+1 Session (around 3 hours)
 
 **Practice Board:** \
 Do Nothing Board 1
 
 **Certification Board Available:** 
 - B-BOP: Bipolar Breadboard Power Supply 
-    - [Manual for Reference](https://github.com/Amp-Lab-at-VT/website/raw/master/docs/sold_docs/Intermediate%20Soldering%20Training%20Manual%20(Isolated%20Breadboard%20Bipolar%20Power%20Supply).pdf) 
-    - [Board Files](https://github.com/Amp-Lab-at-VT/website/raw/master/docs/solder_board_files/BBOP) 
-- AMP Lab Ruler 
-    - [Manual for Reference](https://github.com/Amp-Lab-at-VT/website/raw/master/docs/sold_docs/Intermediate%20Soldering%20Certification%20Manual%20(AMP%20Ruler).pdf) 
-    - [Board Files](https://github.com/Amp-Lab-at-VT/website/raw/master/docs/solder_board_files/AMP%20Ruler) 
 
 **Procedure:** 
     ->The instructor will go over the safety and lab rules. 
